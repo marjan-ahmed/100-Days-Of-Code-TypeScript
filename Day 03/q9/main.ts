@@ -1,3 +1,3 @@
-const favouriteNum : number = 7;
+const favoriteNum : number = 7;
 
-console.log(`My favourite count: ${favouriteNum}`);
+console.log(`My favorite count: ${favoriteNum}`);

@@ -1,3 +1,4 @@
+// QUESTION #11
 let names = ['Ahmed', 'Aufyan', 'Raza', 'Anus', 'Yousuf'];
 
 // console.log(names[0])

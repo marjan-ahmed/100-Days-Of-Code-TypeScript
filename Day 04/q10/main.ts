@@ -1,4 +1,4 @@
-// QUESTION #9:
+// QUESTION #10:
 //--------------------------------------Program 1----------------------------------------
 
 let person: string = " \t \n  \t Marjan  \t \n \t"; //whitespaces

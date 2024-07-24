@@ -1,4 +1,4 @@
-                                                  //QUESTION #15:
+//QUESTION #15:
 
 // Guest List
 let guests : string[] = ['Yahya', "Haris", 'Shaheen', "Shahid"];
