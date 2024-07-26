@@ -1,4 +1,4 @@
-//                                                    QUESTION #25:
+// QUESTION #25:
 
 // The below code will be compile because the condition id true
 

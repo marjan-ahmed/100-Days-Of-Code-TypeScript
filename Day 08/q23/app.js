@@ -26,7 +26,7 @@ console.log("Is car.length == 6? I predict True.");
 console.log(car.length == 6); // True
 // Example 9:
 console.log("Is car.length > 7? I predict True.");
-console.log(car.length > 7); // True
+console.log(car.length > 7); // False
 // Example 10:
 console.log("Is car.length < 5? I predict False.");
 console.log(car.length < 5); // False

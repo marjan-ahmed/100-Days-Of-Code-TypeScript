@@ -2,7 +2,6 @@
 // Equality with strings
 console.log("Testing equality with strings:");
 console.log("apple" == "apple"); // True
-console.log("apple" == "Apple"); // False
 // Using the lower case function
 console.log("Testing with lower case:");
 console.log("Apple".toLowerCase() == "apple"); // True
@@ -13,7 +12,6 @@ console.log(2 < 1); // False
 console.log(10 >= 10); // True
 console.log(5 <= 4); // False
 console.log(5 == 5); // True
-console.log(5 != 6); // True
 // Tests using "and" and "or" operators
 console.log("Tests with 'and' and 'or':");
 console.log(true && false); // False

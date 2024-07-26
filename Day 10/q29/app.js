@@ -1,15 +1,15 @@
 "use strict";
-let favouriteFruits = ['apple', 'mango', 'orange', 'watermelon'];
-if (favouriteFruits.includes("apple")) {
+let favoriteFruits = ['apple', 'mango', 'orange', 'watermelon'];
+if (favoriteFruits.includes("apple")) {
     console.log("I think you like apple.");
 }
-if (favouriteFruits.includes("orange")) {
+if (favoriteFruits.includes("orange")) {
     console.log("I think you like orange.");
 }
-if (favouriteFruits.includes("mango")) {
+if (favoriteFruits.includes("mango")) {
     console.log("I think you like mango.");
 }
-if (favouriteFruits.includes("watermelon")) {
+if (favoriteFruits.includes("watermelon")) {
     console.log("I think you like watermelon.");
 }
 else {

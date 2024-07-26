@@ -5,4 +5,4 @@ function cities(city = "Karachi", country = "Pakistan") {
 cities("Karachi");
 cities("Peshawar");
 cities("Kabul", "Afghanistan");
-cities("Abu Dhabi", "Dubabi");
+cities("Abu Dhabi", "Dubai");
