@@ -11,3 +11,5 @@ let person: string = "Marjan Ahmed"; // This saves the name
 
 console.log(`Hello ${person}, would you like to learn some TypeScript today?`); // This shows the message
 ```
+
+
