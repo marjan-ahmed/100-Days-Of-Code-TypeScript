@@ -17,24 +17,23 @@ Tasks are provided by **Sir Asharib Ali** to guide and challenge me throughout t
 
 ```plaintext
 📦 100-Days-of-Code-TypeScript
-├── 📁 day01
-│   ├── task.md
-│   ├── solution.ts
-├── 📁 day02
-│   ├── task.md
-│   ├── solution.ts
-├── ...
-└── 📁 day100
-    ├── task.md
-    ├── solution.ts
+📁 Day 01
+├── 📁 q1
+├── 📁 q2
+├── 📁 q3
+|
+📁 Day 02
+├── 📁 q1
+├── 📁 q2
+├── 📁 q3
+...
+📁 Day 100
+├── 📁 q1
+├── 📁 q2
+├── 📁 q3
+└── README.md
+
 ```
-
-## 🚀 Daily Progress
-
-- **Day 1:** [Link to Day 1 task and solution](./day01)
-- **Day 2:** [Link to Day 2 task and solution](./day02)
-- **...**
-- **Day 100:** [Link to Day 100 task and solution](./day100)
 
 ## 🌟 Highlights
 
