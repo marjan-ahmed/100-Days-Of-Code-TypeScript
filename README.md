@@ -1,5 +1,5 @@
 
-# 🚀 100 Days of Code in TypeScript (Node.js) 🚀
+# 🚀 100 Days of Code in TypeScript 🚀
 
 Welcome to my 100 Days of Code journey! This repository documents my daily progress and challenges in learning TypeScript with Node.js. Each day, I'll be solving problems, building projects, and enhancing my skills to become a more proficient developer.
 
