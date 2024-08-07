@@ -11,7 +11,7 @@ Welcome to my 100 Days of Code journey! This repository documents my daily progr
 - 🎯 Build my confidence
 
 ### Mentor:
-Tasks are provided by **Sir Asharib Ali** to guide and challenge me throughout this journey.
+Tasks were provided by **Sir** [**Asharib Ali**](https://github.com/AsharibAli) to guide and challenge me throughout this journey.
 
 ## 📂 Repository Structure
 
@@ -44,8 +44,7 @@ Tasks are provided by **Sir Asharib Ali** to guide and challenge me throughout t
 ## 📚 Resources
 
 - [TypeScript Documentation](https://www.typescriptlang.org/docs/)
-- [Node.js Documentation](https://nodejs.org/en/docs/)
-- [100 Days of Code Official Site](https://www.100daysofcode.com/)
+- [100 Days of Code Official Site](https://100daysofcode.asharib.xyz/)
 
 ## 🤝 Contributing
 
